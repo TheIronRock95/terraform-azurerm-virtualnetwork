@@ -19,7 +19,7 @@ module "virtual-network" {
 
 | Name | Version |
 |------|---------|
-| azurerm | >= 2.0.0 |
+| azurerm | n/a |
 
 ## Modules
 
