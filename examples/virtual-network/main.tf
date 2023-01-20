@@ -1,5 +1,5 @@
 module "virtual-network" {
-  source  = "TheIronRock95/virtualnetwork/azurerm"
+  source  = "sironite/virtualnetwork/azurerm"
   version = "x.x.x"
 
   name                = var.virtual_network_name
