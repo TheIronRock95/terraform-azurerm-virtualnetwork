@@ -13,7 +13,7 @@ Using the modules requires the following pre-requisites:
 
 ```hcl
 module "virtual-network" {
-  source  = "TheIronRock95/virtualnetwork/azurerm"
+  source  = "sironite/virtualnetwork/azurerm"
   version = "x.x.x"
 
   name                = var.virtual_network_name
@@ -25,7 +25,7 @@ module "virtual-network" {
 
 ## Authors
 
-The module is maintained by [Wouter Damman](https://github.com/TheIronRock95)
+The module is maintained by [Sironite](https://github.com/sironite)
 
 ## Documentation
 
