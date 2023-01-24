@@ -12,8 +12,8 @@ Using the modules requires the following pre-requisites:
 `virtual-network`
 
 ```hcl
-module "virtual-network" {
-  source  = "sironite/virtualnetwork/azurerm"
+module "virtual_network" {
+  source  = "sironite/virtual_network/azurerm"
   version = "x.x.x"
 
   name                = var.virtual_network_name
