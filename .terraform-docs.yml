@@ -8,6 +8,7 @@ content: |-
 
   # Usage - Module
 
+  ## Virtual Network
   ```hcl
   {{ include "examples/virtual-network/main.tf" }}
   ```
