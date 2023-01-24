@@ -4,7 +4,7 @@
 
 # Usage - Module
 
-## "Virtual Network
+## Virtual Network
 ```hcl
 module "virtual_network" {
   source  = "sironite/virtual_network/azurerm"
